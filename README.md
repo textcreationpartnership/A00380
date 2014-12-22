@@ -37,8 +37,16 @@ This keyboarded and encoded edition of the
 
 #####Front#####
 
+1. ¶ To the chrysten reader.
+
+1. ¶ The texte of the psalme.
+
+    _ ¶ A Paraprhase of the psalme.
+
 #####Body#####
-An exposicyon of the .xv. psalme made by mayster Erasmus of Rotherdame in whiche is full purely decl
+
+1. ¶Lorde who shall dwell in thy tabernacle?
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
